@@ -2,11 +2,6 @@
 * This project is part of my course work for Data Analytics Open Elective for SEM 6 under prof. Aparna Halbe
 * In this project I am using Tablesu Dekstop for visualization and story telling on India Air Quality Data from kaggle.
 
-### Link To Tableau Public Story And Dashboard:
-
-* https://public.tableau.com/profile/viraj.modi#!/vizhome/Final_Exam_AssignmentStudent_Id_0748396/India_Air_Quality?publish=yes
-
-* https://public.tableau.com/profile/viraj.modi#!/vizhome/Final_Exam_AssignmentStudent_Id_0748396/Before_After_Comparison?publish=yes 
 
 ### Objective:
 
